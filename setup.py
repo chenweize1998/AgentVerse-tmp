@@ -19,7 +19,6 @@ setuptools.setup(
     description="A versatile framework that streamlines the process of creating custom multi-agent environments for large language models (LLMs).",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/OpenBMB/AgentVerse",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

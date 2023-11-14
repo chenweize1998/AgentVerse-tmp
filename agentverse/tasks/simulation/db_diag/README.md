@@ -15,7 +15,7 @@ Inherited from *nlp_classroom_3players_withtool*
 
 - Tools
 
-    - We support the *[DB_diag](https://github.com/OpenBMB/BMTools/tree/main/bmtools/tools/db_diag)* tool in bmtools
+    - We support the DB_diag tool in bmtools
 
 - Memory
 
